@@ -1,0 +1,10 @@
+c:\users\eric carestia\documents\visual studio 2010\Projects\CarestiaXTEA\CarestiaXTEA\bin\Release\CarestiaXTEA.dll
+c:\users\eric carestia\documents\visual studio 2010\Projects\CarestiaXTEA\CarestiaXTEA\bin\Release\CarestiaXTEA.pdb
+c:\users\eric carestia\documents\visual studio 2010\Projects\CarestiaXTEA\CarestiaXTEA\obj\Release\CarestiaXTEA.csprojResolveAssemblyReference.cache
+c:\users\eric carestia\documents\visual studio 2010\Projects\CarestiaXTEA\CarestiaXTEA\obj\Release\CarestiaXTEA.dll
+c:\users\eric carestia\documents\visual studio 2010\Projects\CarestiaXTEA\CarestiaXTEA\obj\Release\CarestiaXTEA.pdb
+C:\Users\Carol\Dropbox\Brackets (1)\CarestiaXTEA\CarestiaXTEA\bin\Release\CarestiaXTEA.dll
+C:\Users\Carol\Dropbox\Brackets (1)\CarestiaXTEA\CarestiaXTEA\bin\Release\CarestiaXTEA.pdb
+C:\Users\Carol\Dropbox\Brackets (1)\CarestiaXTEA\CarestiaXTEA\obj\Release\CarestiaXTEA.csprojResolveAssemblyReference.cache
+C:\Users\Carol\Dropbox\Brackets (1)\CarestiaXTEA\CarestiaXTEA\obj\Release\CarestiaXTEA.dll
+C:\Users\Carol\Dropbox\Brackets (1)\CarestiaXTEA\CarestiaXTEA\obj\Release\CarestiaXTEA.pdb

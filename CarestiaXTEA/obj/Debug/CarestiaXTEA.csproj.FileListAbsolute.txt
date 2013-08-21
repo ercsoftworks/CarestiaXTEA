@@ -1,0 +1,5 @@
+c:\users\eric carestia\documents\visual studio 2010\Projects\CarestiaXTEA\CarestiaXTEA\obj\Debug\CarestiaXTEA.csprojResolveAssemblyReference.cache
+c:\users\eric carestia\documents\visual studio 2010\Projects\CarestiaXTEA\CarestiaXTEA\bin\Debug\CarestiaXTEA.dll
+c:\users\eric carestia\documents\visual studio 2010\Projects\CarestiaXTEA\CarestiaXTEA\bin\Debug\CarestiaXTEA.pdb
+c:\users\eric carestia\documents\visual studio 2010\Projects\CarestiaXTEA\CarestiaXTEA\obj\Debug\CarestiaXTEA.dll
+c:\users\eric carestia\documents\visual studio 2010\Projects\CarestiaXTEA\CarestiaXTEA\obj\Debug\CarestiaXTEA.pdb
